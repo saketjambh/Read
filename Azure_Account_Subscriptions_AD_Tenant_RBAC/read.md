@@ -1,0 +1,1 @@
+Back in the day when I started learning Azure, I used to get confused about different components and services in Azure (well..it's not like I am an expert right now!). Of all the topics the most difficult one to grasp in Azure was around Azure accounts, subscriptions, active directory, tenant and role based access control since you don't get to play around with these.
