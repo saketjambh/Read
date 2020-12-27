@@ -3,6 +3,8 @@ Back in the day when I started learning Azure, I used to get confused about diff
 Let's begin....
 
 - [Azure Account](#heading)
+- [Azure Subscription](#heading)
+- [Azure Active Directory and Tenant](#heading)
 <!-- toc -->
 ## Azure Account
 An account in Azure is like any other account which you create.... like in Gmail, Facebook, etc. Once an account is created you can start using the product. Similarly in Azure, you sign up and create an account. But to start using Azure just creating an account won't do any good. Consider renting a house, you can relate to creation of an account to just registering your name so that you can start living in the house. But to live in a house you need to pay RENT!!! Same is the case in azure.... Just by creating an account, Microsoft doesn't allow you to start using the services in Azure. You need to pay some rent to Microsoft........ which brings us to creating/buying an Azure subscription.
