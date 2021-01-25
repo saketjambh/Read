@@ -9,7 +9,6 @@ Let's begin....
 ## Azure Account
 An account in Azure is like any other account which you create.... like in Gmail, Facebook, etc. Once an account is created you can start using the product. Similarly in Azure, you sign up and create an account. But to start using Azure just creating an account won't do any good. Consider renting a house, you can relate to creation of an account to just registering your name so that you can start living in the house. But to live in a house you need to pay RENT!!! Same is the case in azure.... Just by creating an account, Microsoft doesn't allow you to start using the services in Azure. You need to pay some rent to Microsoft........ which brings us to creating/buying an Azure subscription.
 
-![house]https://github.com/saketjambh/Read/blob/master/Azure_Account_Subscriptions_AD_Tenant_RBAC/images/house_buy.jpg)
 
 ## Azure Subscription
 Once an account is created in Azure, Microsoft offers different plans with which you create a Subscription. Even if you don't want to create a subscription, a 7-days free trial is offered to you after which you can decide whether you want to buy the subscription or not. An Azure subscription comes with its own terms and conditions. For different types of subscriptions, the conditions vary. Comparing it with our example of renting a house, the Owner of the house has different types of rental agreements. By choosing one of the rental agreements, you can start living in the house.
